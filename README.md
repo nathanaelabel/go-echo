@@ -1,18 +1,25 @@
-# Go-Echo
-Practice Golang using Echo framework.
+# Go-Echo  
 
-Step by step:
-1. Create a new Go Project
-2. Initiate the new project by creating architecture using these folders (opt.):
-   - config
-   - controllers 
-   - db
-   - helpers
-   - models
-   - routes 
-3. In the VSCode Terminal, type `go mod init *your_project*` to initiate the mod.go file,
-  e.g : 
-```
-go mod init Go-Echo
-```
-4. 
+Practice **Golang** using the **Echo Framework**.  
+
+---
+
+## 🧑‍💻 Developed for  
+Learning **Golang** through hands-on practice with the **Echo Framework**.  
+
+---
+
+## 📖 About the Project  
+This project serves as a **step-by-step guide** for setting up and practicing **Golang with Echo**, a high-performance web framework for Go. It covers **basic project structure**, **initial setup**, and **best practices** for organizing a Go web application.  
+
+---
+
+## 🚀 Project Setup  
+
+### 1️⃣ Create a New Go Project  
+Start by setting up your **Go environment** and creating a new project directory.  
+
+### 2️⃣ Initialize the Project  
+Inside the project directory, initialize a **Go module** by running:  
+```sh
+go mod init <your_project_name> 
